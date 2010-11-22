@@ -1,0 +1,7 @@
+foreground job - задача переднего плана
+process group - группа процессов
+subshell - дочерний шелл
+parent shell - родительский шелл
+job control - контроль задач
+enable job control - начать контроль задач
+stop signals - сигналы останова
