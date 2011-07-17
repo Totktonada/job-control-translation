@@ -1,9 +1,16 @@
-foreground job - задача переднего плана
+foreground job/process group - задача/группа процессов переднего плана
 process group - группа процессов
 subshell - дочерний шелл
-parent shell - родительский шелл
+parent shell/process - родительский шелл/процесс
 job control - контроль задач
 enable job control - начать контроль задач
 stop signals - сигналы останова
 functions (fork, exec) - функции
 single command - одиночная команда
+job - задача [задание?]
+session - сессия
+process group - группа процессов
+group of processes - совокупность процессов
+session leader - лидер сессии
+system login program -
+login shell -
