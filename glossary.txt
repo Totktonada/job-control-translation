@@ -5,3 +5,5 @@ parent shell - родительский шелл
 job control - контроль задач
 enable job control - начать контроль задач
 stop signals - сигналы останова
+functions (fork, exec) - функции
+single command - одиночная команда
