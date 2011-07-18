@@ -12,7 +12,7 @@ session - сессия
 process group - группа процессов
 group of processes - совокупность процессов
 session leader - лидер сессии
-system login program -
-login shell -
+login (в системе) - логин
+system login program - программа входа в систему
 function fail - функция завершается неудачей
 error code - код ошибки
