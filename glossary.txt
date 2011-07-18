@@ -14,3 +14,5 @@ group of processes - совокупность процессов
 session leader - лидер сессии
 system login program -
 login shell -
+function fail - функция завершается неудачей
+error code - код ошибки
