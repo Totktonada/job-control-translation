@@ -1,19 +1,19 @@
-foreground job/process group - задача/группа процессов переднего плана
-process group - группа процессов
+job - задание
+process group (первое употребление в абзаце) - группа процессов
+process group - группа
+group of processes - совокупность процессов
+foreground job/process group - задание/группа (процессов) переднего плана
+background job - фоновое задание
 subshell - дочерний шелл
 parent shell/process - родительский шелл/процесс
-job control - контроль задач
-enable job control - начать контроль задач
+job control - управление заданиями
+enable job control - начать управление заданиями
 stop signals - сигналы останова
 functions (fork, exec) - функции
 single command - одиночная команда
-job - задача [задание?]
 session - сессия
-process group - группа процессов
-group of processes - совокупность процессов
 session leader - лидер сессии
 login (в системе) - логин
 system login program - программа входа в систему
 function fail - функция завершается неудачей
 error code - код ошибки
-background job - фоновая задача
