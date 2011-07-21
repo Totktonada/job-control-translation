@@ -17,3 +17,4 @@ login (в системе) - логин
 system login program - программа входа в систему
 function fail - функция завершается неудачей
 error code - код ошибки
+controlling terminal - управляющий терминал
