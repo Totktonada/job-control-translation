@@ -20,3 +20,4 @@ function fail - функция завершается неудачей
 error code - код ошибки
 controlling terminal - управляющий терминал
 child process - дочерний процесс
+handler -
