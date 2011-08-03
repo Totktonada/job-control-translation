@@ -19,5 +19,9 @@ system login program - программа входа в систему
 function fail - функция завершается неудачей
 error code - код ошибки
 controlling terminal - управляющий терминал
-child process - дочерний процесс
+child process, subprocess - дочерний процесс
 handler -
+pipe - пайп
+pipeline - конвеер
+job is completed -
+job is stopped -
