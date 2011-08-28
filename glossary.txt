@@ -25,3 +25,5 @@ pipe - пайп
 pipeline - конвеер
 job is completed -
 job is stopped -
+race condition - состояние гонки
+fork the process - ответвите процесс
