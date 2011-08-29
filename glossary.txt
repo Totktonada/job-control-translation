@@ -24,7 +24,7 @@ handler - обработчик
 pipe - пайп
 pipeline - конвеер
 process has completed - процесс завершён
-process has stopped - процесс остановлен
+process has stopped - процесс приостановлен
 race condition - состояние гонки
 fork (глагол) the process - ответвите (или форкните) процесс
 GNU system - система GNU
