@@ -27,3 +27,4 @@ process has completed - процесс завершён
 process has stopped - процесс остановлен
 race condition - состояние гонки
 fork (глагол) the process - ответвите (или форкните) процесс
+GNU system - система GNU
