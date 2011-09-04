@@ -3,14 +3,14 @@ process group (первое употребление в абзаце) - груп
 process group (последующие употребления или в сочетании с process) - группа
 group of processes - совокупность процессов
 foreground job/process group - задание/группа (процессов) переднего плана
-[TODO: может быть, «основное задание»?]
+//[TODO: может быть, «основное задание»?]
 background job - фоновое задание
 subshell - дочерний шелл
 parent shell/process - родительский шелл/процесс
 job control - управление заданиями
 enable job control - начать управление заданиями
 stop signals - сигналы останова
-[TODO: может быть, «сигналы приостановки»?]
+//[TODO: может быть, «сигналы приостановки»?]
 functions (fork, exec) - функции
 single command - одиночная команда
 session - сессия
@@ -35,3 +35,9 @@ terminal modes - параметры терминала
 sample shell - пример шелла
 prompting - вывод приглашения
 terminal device - устройство терминала
+`errno' error conditions - состояния ошибок «errno»
+ID - идентификатор
+//[TODO: может быть, просто ID?]
+link (глагол) - компоновать
+calling process - вызывающий процесс
+//[TODO: в man getpid «вызвавший процесс»]
