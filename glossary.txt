@@ -34,3 +34,4 @@ GNU system - система GNU
 terminal modes - параметры терминала
 sample shell - пример шелла
 prompting - вывод приглашения
+terminal device - устройство терминала
