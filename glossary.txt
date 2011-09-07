@@ -14,6 +14,7 @@ stop signals - сигналы останова
 functions (fork, exec) - функции
 single command - одиночная команда
 session - сессия
+//[TODO: сеанс?]
 session leader - лидер сессии
 login (сущ-е, в системе) - логин
 log in (действие, в системе) - авторизоваться
