@@ -13,9 +13,9 @@ stop signals - сигналы останова
 //[TODO: может быть, «сигналы приостановки»?]
 functions (fork, exec) - функции
 single command - одиночная команда
-session - сессия
-//[TODO: сеанс?]
-session leader - лидер сессии
+session - сеанс
+session leader - лидер сеанса
+//[TODO: плохо звучит]
 login (сущ-е, в системе) - логин
 log in (действие, в системе) - авторизоваться
 system login program - программа входа в систему
