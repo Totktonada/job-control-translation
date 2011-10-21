@@ -15,7 +15,7 @@ functions (fork, exec) - функции
 single command - одиночная команда
 session - сеанс
 session leader - лидер сеанса
-//[TODO: плохо звучит]
+//[TODO: вариант: «создатель сеанса»]
 login (сущ-е, в системе) - логин
 log in (действие, в системе) - авторизоваться
 system login program - программа входа в систему
