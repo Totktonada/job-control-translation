@@ -9,7 +9,7 @@ subshell - дочерний шелл
 parent shell/process - родительский шелл/процесс
 job control - управление заданиями
 enable job control - начать управление заданиями
-stop signals - сигналы останова
+stop signals - сигналы приостановки
 //[TODO: может быть, «сигналы приостановки»?]
 functions (fork, exec) - функции
 single command - одиночная команда
@@ -42,3 +42,7 @@ ID - идентификатор
 link (глагол) - компоновать
 calling process - вызывающий процесс
 //[TODO: в man getpid «вызвавший процесс»]
+chapter - глава
+section - раздел
+declaration - определение
+//[TODO: варианты: объявление, описание] 
