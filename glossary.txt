@@ -30,7 +30,8 @@ terminated job - завершённое задание
 process has completed - процесс завершён
 process has stopped - процесс приостановлен
 race condition - состояние гонки
-fork (глагол) the process - ответвите (или форкните) процесс
+fork (глагол) the process - породить процесс
+fork (сущ.) - ветвление
 GNU system - система GNU
 terminal modes - параметры терминала
 sample shell - пример шелла
@@ -46,3 +47,4 @@ chapter - глава
 section - раздел
 declaration - определение
 //[TODO: варианты: объявление, описание] 
+primitive functions/primitives - основные функции
