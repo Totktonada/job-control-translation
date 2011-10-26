@@ -48,3 +48,4 @@ section - раздел
 declaration - определение
 //[TODO: варианты: объявление, описание] 
 primitive functions/primitives - основные функции
+option - параметр (не опция)
