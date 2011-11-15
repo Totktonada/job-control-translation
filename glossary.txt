@@ -45,7 +45,6 @@ calling process - вызывающий процесс
 //[TODO: в man getpid «вызвавший процесс»]
 chapter - глава
 section - раздел
-declaration - определение
-//[TODO: варианты: объявление, описание] 
+declaration - объявление
 primitive functions/primitives - основные функции
 option - параметр (не опция)
