@@ -53,3 +53,4 @@ primitive functions/primitives - основные функции
 option - параметр (не опция)
 include (header files) - подключать (не включать)
 send a signal - послать/отправить сигнал
+feature test macros - feature test macros
